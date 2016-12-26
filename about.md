@@ -14,4 +14,4 @@ My interests lie in distributed systems and programming languages.
 
 ### Contact me
 
-[email@domain.com](mailto:anirudh4444@gmail.com)
+anirudh4444-at-gmail-dot-com
