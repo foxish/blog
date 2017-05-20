@@ -1,0 +1,3 @@
+In this post, I detail the history of OS level virtualization, starting with the need for it, progress as it matured through the years, major breakthroughs, and finally where we're at today, with an outlook into the future.
+
+Virtualization as a concept has existed for a long time now. The reason at the core of why we need this, is that hardware changes and the way we can make up for major changes in hardware and keep up with it, is to 
